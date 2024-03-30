@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this application consiste the concept of full stack web pruduction based application workflow",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Pradeep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
